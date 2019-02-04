@@ -21,13 +21,29 @@ h3{
   color: black;
   font-family: 'Roboto Slab', serif;
   font-size: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 p {
+  color: black;
   font-family: 'Roboto Slab', serif;
   font-size: 20px;
   margin-left: 20px;
+}
+
+.listaContenidoQuienSoy{
+  color: black;
+  font-family: 'Roboto Slab', serif;
+}
+
+.contenido_experiencia {
+  margin-left: 10px;
+}
+
+.lista_experiencia01{
+  color: black;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
 }
 
 .menu img{
